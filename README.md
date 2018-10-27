@@ -10,7 +10,7 @@ Download all your favorite (bookmarked) illusts in [Pixiv](https://www.pixiv.net
 
 ## Usage
 
-#### Setup
+### Setup
 
 Install [pixivpy](https://github.com/upbit/pixivpy).
 
@@ -27,7 +27,7 @@ $ mv client.json.sample client.json
 $ vi client.json
 ```
 
-#### Execute
+### Execute
 
 Execute the command bellow, and you can see the images in `images/`.
 
